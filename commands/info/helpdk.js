@@ -3,7 +3,7 @@ const { MessageEmbed } = require("discord.js");
 const { Color, Prefix } = require("../../config.js");
 
 module.exports = {
-  name: "helpdk",
+  name: "help",
   aliases: [""],
   description: "Help Command!",
   usage: "Help | <Command Name>",
